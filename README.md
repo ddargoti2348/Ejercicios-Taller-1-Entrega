@@ -16,7 +16,3 @@ Hay un cupón denominado "ULTIMO_SUSPIRO" que aplica un 30% de descuento exclusi
 Base de datos:
 El archivo `tienda.db` contiene las tablas necesarias para resolver los ejercicios (clientes, productos, ventas, detalles de venta, etc.) y datos sintéticos representativos para realizar análisis y pruebas de consultas.
 
-Uso rápido:
-- Abra `tienda.db` con su cliente SQLite preferido.
-- Ejecute las consultas propuestas en cada enunciado del taller y verifique los resultados con las tablas de ejemplo.
-
