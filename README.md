@@ -21,7 +21,9 @@ Base de datos:
 El archivo `tienda.db` contiene las tablas necesarias para resolver los ejercicios (clientes, productos, ventas, detalles de venta, etc.) y datos sintéticos representativos para realizar análisis y pruebas de consultas.
 
 ¿Como se ejecutan las soluciones?
+
 Respuesta: 
+
 lo primero y mas importante se debe contar con datos, para el caso del taller contamos con una base de datos que se menciona con anterioridad que es tienda.db luego para este caso podemos o abrir un repositorio en visual code y subir nuestra db ahi y ejecutar consultas o tambien podemos abrir en SQL LITE ONLINE SERVER y abrir nuestra base de datos posterior a ello vamos copiando y pegando el codigo de la consulta y nos va dando el resultado de cada pregunta.
 
 Conclusion:
